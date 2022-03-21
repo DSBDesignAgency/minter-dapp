@@ -394,3 +394,7 @@ section {
 .hidden {
   display: none;
 }
+
+.top-logo {
+  width: 200px;
+}
