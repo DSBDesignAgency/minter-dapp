@@ -13,7 +13,7 @@
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
   --accent-color: #fffeb3;
-  --header-shadow: var(--accent-color) 0px 0px 5px;
+  --header-shadow: var(--accent-color) 4px 4px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
 
@@ -119,6 +119,7 @@ header .container {
 }
 .btn:hover {
   box-shadow: none;
+  color: #fff;
 }
 .btn:disabled {
   cursor: default;
