@@ -352,8 +352,9 @@ section {
   }
   .wallet-btn {
     margin-left: 0;
-    padding: 0.5rem 1rem;
+    padding: 0.25rem 0.5rem;
     max-width: 8rem;
+    font-size: 0.75rem;
   }
   .not-connected {
     background-color: var(--bg-color-transparent);
