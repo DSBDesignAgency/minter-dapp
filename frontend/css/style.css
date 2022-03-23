@@ -183,7 +183,7 @@ section {
 }
 .countdown .clock-item {
   list-style: none;
-  width: 80px;
+  width: 70px;
   height: auto;
 }
 .countdown .clock-item .count-number {
