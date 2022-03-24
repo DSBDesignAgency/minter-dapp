@@ -351,7 +351,9 @@ section {
     width: 25vw;
     margin-right: 10vw;
   }
-
+.menu img {
+  width: 25px;
+}
   .menu {
     gap: 1rem;
   }
