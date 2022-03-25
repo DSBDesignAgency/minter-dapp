@@ -367,7 +367,7 @@ section {
 .collaboration {
   padding: 5rem 0;
   /* background: var(--accent-color); */
-  background: url("/assets/images/art-background.png");
+  background: url("/images/art-background.png");
   background-size: cover;
   text-align: center;
   color: var(--bg-color);
