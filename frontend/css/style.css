@@ -377,12 +377,14 @@ section {
   font-style: italic;
   margin: 2rem 0;
   font-size: 3.5rem;
+  color: #fff;
 }
 .collaboration p {
   font-size: 1.1rem;
   line-height: 1.8;
   font-family: var(--font-secondary);
   margin: 1rem 0;
+  color: #fff;
 }
 .collaboration blockquote {
   font-size: 1.1rem;
@@ -395,7 +397,7 @@ section {
 .collaboration span img {
   width: 20vw;
   margin-left: 1rem;
-  box-shadow: 2px 2px 4px var(--font-color);;
+  /* box-shadow: 2px 2px 4px var(--font-color); */
 }
 
 .collabs {
