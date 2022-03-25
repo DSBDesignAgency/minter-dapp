@@ -380,11 +380,11 @@ section {
   color: #fff;
 }
 .collaboration h2 {
-  text-shadow: 2px 2px 0 #8a30ff;
+  /* text-shadow: 2px 2px 0 #8a30ff; */
   font-style: italic;
   margin: 2rem 0;
-  font-size: 2.5rem;
-  color: #fff;
+  font-size: 2rem;
+  color: #8a30ff;
 }
 .collaboration p {
   font-size: 1.1rem;
