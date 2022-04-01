@@ -559,7 +559,7 @@ section {
   align-items: center;
   justify-content: space-between;
 }
-.row section .details .title {
+.row section .title {
   font-size: 22px;
   font-weight: 600;
   color: #fff;
