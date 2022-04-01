@@ -565,6 +565,10 @@ section {
   color: rgb(0, 0, 0);
 }
 
+#roadmap p {
+  color: #333;
+}
+
 .row section .details span:last-of-type {
   color: var(--bg-color);
   font-weight: bold;
