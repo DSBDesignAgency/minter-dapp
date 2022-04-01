@@ -564,6 +564,10 @@ section {
   font-weight: 600;
   color: #fff;
 }
+
+.details p {
+  color: #333;
+}
 .row section .details span:last-of-type {
   color: var(--bg-color);
   font-weight: bold;
