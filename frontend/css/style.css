@@ -565,7 +565,7 @@ section {
   color: #fff;
 }
 
-.details p {
+.row section .details p {
   color: #333;
 }
 .row section .details span:last-of-type {
