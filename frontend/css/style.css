@@ -533,7 +533,7 @@ section {
   text-align: center;
   line-height: 40px;
   border-radius: 50%;
-  color: #fff;
+  color: rgb(44, 44, 44);
   font-size: 17px;
   font-style: normal;
   box-shadow: 0 0 0 4px var(--accent-color), inset 0 2px 0 rgba(0, 0, 0, 0.08),
