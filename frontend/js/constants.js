@@ -1,7 +1,7 @@
 const contractAddress = "0xCD44352Ba2Be497bDE30Af36331FD0001943F0C4"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to The Crater Faces NFT Project!";
+const welcome_h1 = "Welcome to The Crater Faces NFT Collection!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Crater Faces is a collection of celestial hooligans located in the deepest pockmark of space.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!";
