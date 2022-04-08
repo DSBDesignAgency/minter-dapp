@@ -14,7 +14,7 @@ const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10000,
+    growEditionSizeTo: 5000,
     layersOrder: [
       { name: "Background" },
       { name: "Moon Color" },
@@ -64,10 +64,10 @@ const MINT_PRICE = .08; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PUBLIC_MINT_START_DATE = "2022-03-31T14:00:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
+const PUBLIC_MINT_START_DATE = "2022-04-09T14:00:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PRESALE_MINT_START_DATE ="2022-03-23T14:00:48+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
+const PRESALE_MINT_START_DATE ="2022-04-08T14:00:48+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0x950b66F423bFE088d3cfd246646afaA36E058f8B"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
@@ -81,7 +81,7 @@ let CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS"; // If you want to manually inclu
 const GENERIC = true; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME; // Replace with what you want the generic titles to say if you want it to be different from the contract name.
 const GENERIC_DESCRIPTION = "Which Crater Face will be yours?"; // Replace with what you want the generic descriptions to say.
-const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafybeiarqwx4dvbgqxvkgsrfcqfecish6t4qcvt55rq7pwfx7cgecyxtmm"; // Replace with your generic image that will display for all NFTs pre-reveal.
+const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafybeiejhqlclshyxfihyyo3n7pq2btai6wrcubbnlpnqb2wr5lmnwpcxm"; // Replace with your generic image that will display for all NFTs pre-reveal.
 
 // Automatically set contract address if deployed using the deployContract.js script
 try {
