@@ -1,4 +1,4 @@
-const contractAddress = "0x74BfF072b5834286a887e304026816B1a6C29D6f"; //Replace with your own contract address
+const contractAddress = "0xbCdc547570C68E63C895BE56B244c412b6E5503E"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to The Crater Faces NFT Collection!";
